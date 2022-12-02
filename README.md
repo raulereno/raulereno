@@ -22,4 +22,6 @@ and if you are interested in my projects you can contact me at [Linkedin](https:
 
 As you will read, English is not my first language, but I have an acceptable level of conversation, I think 😄
 
-![Image text](https://miro.medium.com/max/720/1*sUI4nkPfH0wevBQMb29cnQ.webp)
+  <div style="display:flex; justify-content:center">
+  <img src="[https://res.cloudinary.com/dbgpp8nla/image/upload/v1669939805/Estudio_de_Fotograf%C3%ADa_Portada_de_Facebook_z8spy0.gif](https://miro.medium.com/max/720/1*sUI4nkPfH0wevBQMb29cnQ.webp)" >
+  <div/>
