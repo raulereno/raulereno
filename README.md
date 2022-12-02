@@ -22,6 +22,6 @@ and if you are interested in my projects you can contact me at [Linkedin](https:
 
 As you will read, English is not my first language, but I have an acceptable level of conversation, I think 😄
 
-  <div style="display:flex; justify-content:center">
+  <p style="align-text:center">
   <img src="https://miro.medium.com/max/720/1*sUI4nkPfH0wevBQMb29cnQ.webp" >
-  <div/>
+  <p/>
