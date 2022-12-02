@@ -1,4 +1,8 @@
-![Image text](https://res.cloudinary.com/dbgpp8nla/image/upload/v1669939805/Estudio_de_Fotograf%C3%ADa_Portada_de_Facebook_z8spy0.gif)
+<div style="text-align:center">
+  ![Image text](https://res.cloudinary.com/dbgpp8nla/image/upload/v1669939805/Estudio_de_Fotograf%C3%ADa_Portada_de_Facebook_z8spy0.gif)
+  <div/>
+
+
 
 ## Sobre Mi
 
