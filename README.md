@@ -1,4 +1,4 @@
-![Image text](https://www.canva.com/design/DAFTkJ_jR_A/hDvGRFgnDlQRkH8jmPxjMg/watch?utm_content=DAFTkJ_jR_A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Image text](https://res.cloudinary.com/dbgpp8nla/image/upload/v1669939805/Estudio_de_Fotograf%C3%ADa_Portada_de_Facebook_z8spy0.gif)
 
 ## Sobre Mi
 
