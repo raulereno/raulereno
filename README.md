@@ -10,7 +10,7 @@
 
 
 Ahora en la actualidad me encuentro realizando proyectos en los que he usado tecnologías como **HMTL**, **CSS** y **JavaScript**, también utilice librerías como **React**, el famoso **Bootstrap** y **Redux**. Mi mayor orgullo fue juntos mis compañeros de proyecto final en el bootcamp **soyHenry** fue el desafío de aprender a utilizar **Angular** junto a **Typescript**. También conozco la utilización de **NodeJS**, **Express**, **Sequelize** y **PostgreSQL** ya que en algunos de los proyectos mencionados he necesitado un backend que me provea de información.
-Y ese soy yo resumidas en pocas palabras, si quieres ver los proyectos los puedes encontrar en mi [Portfolio](https://ereno-raul-dev.netlify.app/) y si te interesaron mis proyectos me puedes contactar en [Linkedin](https://www.linkedin.com/in/raulereno/)
+Y ese soy yo resumidas en pocas palabras, si quieres ver los proyectos los puedes encontrar en mi [Portfolio](https://ereno-raul-dev.netlify.app/) y si te interesaron mis proyectos me puedes contactar en [Linkedin](https://www.linkedin.com/in/raulereno/) o a traves de mi correo electronico raulereno@gmail.com
 
 ## About me
 
@@ -18,7 +18,7 @@ Y ese soy yo resumidas en pocas palabras, si quieres ver los proyectos los puede
 
 Now I am currently doing projects in which I have used technologies such as **HMTL**, **CSS** and **JavaScript**, I also use libraries such as **React**, the famous **Bootstrap** and **Redux**. My greatest pride was together with my colleagues in the final project in the soyHenry bootcamp, it was the challenge of learning to use **Angular** together with **Typescript**. I also know the use of **NodeJS**, **Express**, **Sequelize** and **PostgreSQL** since in some of the mentioned projects I have needed a backend that provides me with information.
 And that's me summarized in a few words, if you want to see the projects you can find them in my [Portfolio](https://ereno-raul-dev.netlify.app/) 
-and if you are interested in my projects you can contact me at [Linkedin](https://www.linkedin.com/in/raulereno/)
+and if you are interested in my projects you can contact me at [Linkedin](https://www.linkedin.com/in/raulereno/) or through my email raulereno@gmail.com
 
 As you will read, English is not my first language, but I have an acceptable level of conversation, I think 😄
 
