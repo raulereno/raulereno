@@ -34,7 +34,3 @@ And that's me summarized in a few words, if you want to see the projects you can
 and if you are interested in my projects you can contact me at [Linkedin](https://www.linkedin.com/in/raulereno/) or through my email raulereno@gmail.com
 
 As you will read, English is not my first language, but I have an acceptable level of conversation, I think 😄
-
-  <p align="center">
-  <img src="https://miro.medium.com/max/720/1*sUI4nkPfH0wevBQMb29cnQ.webp" >
-  <p/>
