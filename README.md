@@ -13,6 +13,17 @@
 
 Ahora en la actualidad me encuentro realizando proyectos en los que he usado tecnologías como **HMTL**, **CSS** y **JavaScript**, también utilice librerías como **React**, el famoso **Bootstrap** y **Redux**. Mi mayor orgullo fue juntos mis compañeros de proyecto final en el bootcamp **soyHenry** fue el desafío de aprender a utilizar **Angular** junto a **Typescript**. También conozco la utilización de **NodeJS**, **Express**, **Sequelize** y **PostgreSQL** ya que en algunos de los proyectos mencionados he necesitado un backend que me provea de información.
 Y ese soy yo resumidas en pocas palabras, si quieres ver los proyectos los puedes encontrar en mi [Portfolio](https://ereno-raul-dev.netlify.app/) y si te interesaron mis proyectos me puedes contactar en [Linkedin](https://www.linkedin.com/in/raulereno/) o a traves de mi correo electronico raulereno@gmail.com
+## Contáctame 📫
+
+<p align="left">
+<a href="https://www.linkedin.com/in/raulereno/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raulereno/" height="30" width="40" />
+ </a>
+  
+  <a href="https://raulereno@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+  </a> 
+</p>
 
 ## About me
 
